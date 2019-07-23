@@ -1,0 +1,21 @@
+{
+  "android": {
+    "latest_app_version": 4020399, 
+    "min_app_version": 4000299
+  }, 
+  "contbuild_enabled": true, 
+  "current_season": 2018, 
+  "down_events": [], 
+  "ios": {
+    "latest_app_version": -1, 
+    "min_app_version": -1
+  }, 
+  "is_datafeed_down": false, 
+  "max_season": 2018, 
+  "web": {
+    "commit_time": "2018-02-11 15:01:51 -0500", 
+    "current_commit": "cd0eff0aabbfa7373f63a1defa0fb1470822c07b", 
+    "deploy_time": "Sun Feb 11 20:18:12 UTC 2018", 
+    "travis_job": "340231483"
+  }
+}

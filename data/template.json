@@ -1,0 +1,15 @@
+[{
+    "situation": {
+        "team": "avgscore",
+        "opponents": {
+            "top": "avgscore",
+            "middle": "avgscore",
+            "bottom": "avgscore"
+        }
+    },
+    "result": {
+        "team": "event_score",
+        "opponents": [],
+        "place": "place"
+    }
+}]
